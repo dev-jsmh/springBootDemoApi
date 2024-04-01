@@ -1,0 +1,14 @@
+
+
+to compile successfully the API in my case i can compile it with the netbeans IDE
+after that when I need to run the project I have to do it throut the command line
+I should user the following command targeting to the folder where have been compiled the project
+
+
+    java -jar 
+
+    ex: java -jar demo/target/demo-0.0.1-SNAPSHOT.jar
+    
+and press enter
+
+after that the application will run without problems in the port localhost:8080
